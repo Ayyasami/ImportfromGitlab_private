@@ -15,7 +15,6 @@ class PrimeNumbers
          System.out.println("First "+n+" prime numbers are:");
          System.out.println(2);
       }
-     
       for (count = 2; count <=n;)
       {
          for (j = 2; j <= Math.sqrt(num); j++)
